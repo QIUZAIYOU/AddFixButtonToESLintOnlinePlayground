@@ -1,9 +1,10 @@
 // ==UserScript==
+// @license      GPL-3.0 License
 // @name         为 Eslint 在线运行添加修复按钮
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/QIUZAIYOU/AddFixButtonToESLintOnlinePlayground/tree/main
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  为 ESLint 在线运行（中英文官网）添加修复按钮
+// @author       QIAN
 // @match        https://eslint.nodejs.cn/play/
 // @match        https://eslint.org/play/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=nodejs.cn
