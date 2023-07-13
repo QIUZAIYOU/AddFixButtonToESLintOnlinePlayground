@@ -7,7 +7,7 @@
 // @author       QIAN
 // @match        https://eslint.nodejs.cn/play/
 // @match        https://eslint.org/play/
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=nodejs.cn
+// @icon         https://eslint.nodejs.cn/favicon.ico
 // @grant        none
 // ==/UserScript==
 
